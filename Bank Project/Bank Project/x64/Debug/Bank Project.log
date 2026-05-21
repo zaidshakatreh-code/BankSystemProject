@@ -1,0 +1,85 @@
+﻿  Bank Project.cpp
+C:\Users\Zaid\source\repos\Bank Project\String.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\String.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\String.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\String.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\String.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\String.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\Util.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\User.h(198,12): warning C4240: nonstandard extension used: access to 'User::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20Project.cpp')
+      C:\Users\Zaid\source\repos\Bank Project\User.h(26,12):
+      see declaration of 'User::stLoginRegisterRecord'
+  
+C:\Users\Zaid\source\repos\Bank Project\InputValidate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\BankClient.h(207,12): warning C4240: nonstandard extension used: access to 'BankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20Project.cpp')
+      C:\Users\Zaid\source\repos\Bank Project\BankClient.h(153,12):
+      see declaration of 'BankClient::stTrnsferLogRecord'
+  
+C:\Users\Zaid\source\repos\Bank Project\BankClient.h(29,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\BankClient.h(163,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\BankClient.h(164,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\BankClient.h(165,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\BankClient.h(422,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\BankClient.h(435,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\TotalBalancesScreen.h(57,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\ClickTransfersScreen.h(47,64): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\Zaid\source\repos\Bank Project\ClickTransfersScreen.h(47,64): warning C4244:         with
+C:\Users\Zaid\source\repos\Bank Project\ClickTransfersScreen.h(47,64): warning C4244:         [
+C:\Users\Zaid\source\repos\Bank Project\ClickTransfersScreen.h(47,64): warning C4244:             T=double
+C:\Users\Zaid\source\repos\Bank Project\ClickTransfersScreen.h(47,64): warning C4244:         ]
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\Currency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\Zaid\source\repos\Bank Project\InputValidate.h(189,40): warning C4244: '=': conversion from 'T' to 'short', possible loss of data
+C:\Users\Zaid\source\repos\Bank Project\InputValidate.h(189,40): warning C4244:         with
+C:\Users\Zaid\source\repos\Bank Project\InputValidate.h(189,40): warning C4244:         [
+C:\Users\Zaid\source\repos\Bank Project\InputValidate.h(189,40): warning C4244:             T=double
+C:\Users\Zaid\source\repos\Bank Project\InputValidate.h(189,40): warning C4244:         ]
+  (compiling source file 'Bank%20Project.cpp')
+      C:\Users\Zaid\source\repos\Bank Project\InputValidate.h(189,40):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Zaid\source\repos\Bank Project\TransactionsScreen.h(29,39):
+          see reference to function template instantiation 'T InputValidate::ReadNumberBetween<short>(T,T,std::string)' being compiled
+          with
+          [
+              T=short
+          ]
+  
+C:\Users\Zaid\source\repos\Bank Project\BankClient.h(377,1): warning C4715: 'BankClient::Save': not all control paths return a value
+C:\Users\Zaid\source\repos\Bank Project\BankClient.h(439,1): warning C4715: 'BankClient::Withdraw': not all control paths return a value
+C:\Users\Zaid\source\repos\Bank Project\User.h(360,1): warning C4715: 'User::Save': not all control paths return a value
+  Bank Project.vcxproj -> C:\Users\Zaid\source\repos\Bank Project\x64\Debug\Bank Project.exe
